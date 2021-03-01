@@ -1,1 +1,4 @@
 .vscode/
+saved/*
+!saved/.gitkeep
+__pycache__/
